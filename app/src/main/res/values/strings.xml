@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferencesNoteBook</string>
+    <string name="save">Сохранить</string>
+    <string name="dataSaved">данные сохранены</string>
+</resources>
